@@ -1,4 +1,3 @@
-package day1_3;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
