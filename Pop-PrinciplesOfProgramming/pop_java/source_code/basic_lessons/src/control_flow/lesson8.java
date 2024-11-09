@@ -2,6 +2,7 @@ package control_flow;
 
 import java.util.Scanner;
 
+//nextLine()
 public class lesson8 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
