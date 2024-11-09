@@ -1,10 +1,10 @@
 package control_flow;
 
 import java.util.Scanner;
+//        Scanner
 
 public class lesson6 {
     public static void main(String[] args) {
-//        Scanner
         System.out.println("Enter your name : ");
         Scanner sc = new Scanner(System.in);
         String name = sc.next();
