@@ -1,7 +1,8 @@
 package control_flow;
 
 import java.util.Scanner;
-//        Scanner
+
+// Scanner Lessons
 
 public class lesson6 {
     public static void main(String[] args) {
