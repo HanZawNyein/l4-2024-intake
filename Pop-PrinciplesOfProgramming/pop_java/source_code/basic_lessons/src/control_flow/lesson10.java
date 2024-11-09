@@ -2,6 +2,9 @@ package control_flow;
 
 import java.util.Scanner;
 
+
+//int arr[] = {10,20,30};
+
 public class lesson10 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -15,7 +18,7 @@ public class lesson10 {
 //        int days = sc.nextInt();
         int days = 0;
 
-        String[] monthName = {
+        String monthName[] = {
                 "January", "February", "March", "April", "May", "June",
                 "July", "August", "September", "October", "November","December"};
         switch (month) {
